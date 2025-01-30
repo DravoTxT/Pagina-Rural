@@ -1,0 +1,934 @@
+{
+    "Hoja1":[
+     {
+      "Codigo": "FE371",
+      "Curso": "Antropología Cultural",
+      "Semestre": 1
+     },
+     {
+      "Codigo": "FE280",
+      "Curso": "Evolución Arquitectónica I",
+      "Semestre": 1
+     },
+     {
+      "Codigo": "FE504",
+      "Curso": "Fotografía Periodística",
+      "Semestre": 1
+     },
+     {
+      "Codigo": "FE447",
+      "Curso": "Fundamentos del Trabajo Social II",
+      "Semestre": 1
+     },
+     {
+      "Codigo": "SH053",
+      "Curso": "Historia de la Educación",
+      "Semestre": 1
+     },
+     {
+      "Codigo": "FE301",
+      "Curso": "Legislación Agroindustrial",
+      "Semestre": 1
+     },
+     {
+      "Codigo": "FE615",
+      "Curso": "Publicidad y Propaganda",
+      "Semestre": 1
+     },
+     {
+      "Codigo": "CB024",
+      "Curso": "Análisis Químico de los Alimentos",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FE539",
+      "Curso": "Comunicación Institucional y Relaciones Públicas",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "SH071",
+      "Curso": "Corriente Psicológicas Contemporáneas",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FG414",
+      "Curso": "Dibujo Técnico II",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FE618",
+      "Curso": "Diseño Grafico",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FE166",
+      "Curso": "Estrategias Docentes",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FE284",
+      "Curso": "Evolución Arquitectónica III",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FE283",
+      "Curso": "Expresión Grafica II",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FG400",
+      "Curso": "Maquinaria y Equipo de Construcción",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FE651",
+      "Curso": "Narrativa y Lenguaje Audiovisual",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FE446",
+      "Curso": "Organización de la Gestión del Desempeño",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "SH057",
+      "Curso": "Orientación Educativa",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "CB037",
+      "Curso": "Programación",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FG177",
+      "Curso": "Psicología del Niño y del Adolescente",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FE372",
+      "Curso": "Psicología Médica y de la Personalidad",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FG740",
+      "Curso": "Sistemas Educativos Comparados",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "CB051",
+      "Curso": "Técnicas de Evaluación Psicológicas I",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FG340",
+      "Curso": "Teoría Curricular",
+      "Semestre": 3
+     },
+     {
+      "Codigo": "FG071",
+      "Curso": "Administración IV",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG013",
+      "Curso": "Agroecología",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "CB030",
+      "Curso": "Análisis Sensorial",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE287",
+      "Curso": "Arquitectura II",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG368",
+      "Curso": "Ciencia Política",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE288",
+      "Curso": "Comunicación Arquitectónica II",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG121",
+      "Curso": "Contabilidad IV",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE013",
+      "Curso": "Diseño, Planificación y Manejo Ambiental",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG489",
+      "Curso": "Estado y Políticas Públicas",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE167",
+      "Curso": "Estrategias de Aprendizaje",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG416",
+      "Curso": "Estructuras I",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG343",
+      "Curso": "Evaluación del Aprendizaje",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE250",
+      "Curso": "Ingeniería de Plantas Industriales",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE274",
+      "Curso": "Ingeniería I",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE068",
+      "Curso": "Inventarios Forestales",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "CB036",
+      "Curso": "Matemática VI",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG402",
+      "Curso": "Materiales de Construcción",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG075",
+      "Curso": "Mercadotecnia II",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE456",
+      "Curso": "Metodología de Intervención Social de Grupo",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG403",
+      "Curso": "Métodos de construcción I",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE620",
+      "Curso": "Modulación y Locución",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE091",
+      "Curso": "Ordenamiento Forestal",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE451",
+      "Curso": "Poder y Pluralidad Social en Guatemala",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FG459",
+      "Curso": "Práctica Psicológica I",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "CB028",
+      "Curso": "Procesamiento de Cereales y Oleaginosas",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "CB027",
+      "Curso": "Procesamiento de Frutas y Verduras",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "CB029",
+      "Curso": "Procesamiento de Productos Pecuarios",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "SH075",
+      "Curso": "Psicología de la Personalidad",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE249",
+      "Curso": "Seguridad e Higiene Industriales",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE505",
+      "Curso": "Semiótica",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "CB053",
+      "Curso": "Técnicas de Evaluación y Diagnóstico Psicológico I",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE537",
+      "Curso": "Técnicas Periodísticas",
+      "Semestre": 5
+     },
+     {
+      "Codigo": "FE048",
+      "Curso": "Auditoria II",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG336",
+      "Curso": "Cultivo de Tejidos Vegetales",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG183",
+      "Curso": "Deporte y Salud",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE157",
+      "Curso": "Diseño de Procesos Agroindustriales",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE158",
+      "Curso": "Diseño Industrial",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "SH007",
+      "Curso": "Ecología Humana",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG406",
+      "Curso": "Electromagnetismo",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG407",
+      "Curso": "Estructuras de Concreto",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG420",
+      "Curso": "Estructuras III",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE275",
+      "Curso": "Ingeniería II",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE291",
+      "Curso": "Instalaciones I",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE457",
+      "Curso": "Intervención Psicológica",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE293",
+      "Curso": "Paisajismo I",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE292",
+      "Curso": "Plantas Ornamentales",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG461",
+      "Curso": "Práctica Psicológica III",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG184",
+      "Curso": "Procesos de  Calidad",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE254",
+      "Curso": "Procesos de Manufactura",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE255",
+      "Curso": "Procesos Industriales",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE150",
+      "Curso": "Procesos Industriales de los Minerales",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG405",
+      "Curso": "Programación y Evaluación de Construcciones",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE290",
+      "Curso": "Proyectos Arquitectónicos II",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "SH080",
+      "Curso": "Psicología Institucional",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE485",
+      "Curso": "Psicometría",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE484",
+      "Curso": "Salud Comunitaria",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "SH079",
+      "Curso": "Sistemas de Psicoterapia",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "CB055",
+      "Curso": "Técnicas de Evaluación y Diagnóstico Psicológico III",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FE486",
+      "Curso": "Trabajo Social con Grupos I",
+      "Semestre": 7
+     },
+     {
+      "Codigo": "FG337",
+      "Curso": "Biocombustibles",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FE227",
+      "Curso": "Cálculo Diferencial",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FG412",
+      "Curso": "Diseño Estructural",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FE488",
+      "Curso": "Epistemología del Trabajo Social",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FG366",
+      "Curso": "Estática",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FG413",
+      "Curso": "Estructuras de Acero",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FG425",
+      "Curso": "Estructuras V",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FE259",
+      "Curso": "Gestión de Calidad",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FE299",
+      "Curso": "Instalaciones III",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FG424",
+      "Curso": "Legislación Arquitectónica",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FE460",
+      "Curso": "Metodología de Intervención Social de Comunidad",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FG463",
+      "Curso": "Práctica Psicológica V",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FE165",
+      "Curso": "Procesos Industriales de la Leche",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FE163",
+      "Curso": "Procesos Industriales del Pan",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "CB056",
+      "Curso": "Técnicas de Psicoterapia",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FE298",
+      "Curso": "Tendencias Arquitectónicas",
+      "Semestre": 9
+     },
+     {
+      "Codigo": "FGE1 ",
+      "Curso": "Administración",
+      "Semestre": "Fase Publica y Privada"
+     },
+     {
+      "Codigo": "FG1",
+      "Curso": "Aguas",
+      "Semestre": "Fase Publica y Privada"
+     },
+     {
+      "Codigo": "FGE4",
+      "Curso": "Área Técnica",
+      "Semestre": "Fase Publica y Privada"
+     },
+     {
+      "Codigo": "FGE2",
+      "Curso": "Estructuras",
+      "Semestre": "Fase Publica y Privada"
+     },
+     {
+      "Codigo": "FG2",
+      "Curso": "Métodos  Cuantitativos",
+      "Semestre": "Fase Publica y Privada"
+     },
+     {
+      "Codigo": "FE1",
+      "Curso": "Producción",
+      "Semestre": "Fase Publica y Privada"
+     },
+     {
+      "Codigo": "FGE5",
+      "Curso": "Proyectos\/Administracion",
+      "Semestre": "Fase Publica y Privada"
+     },
+     {
+      "Codigo": "FGE3",
+      "Curso": "Suelos",
+      "Semestre": "Fase Publica y Privada"
+     },
+     {
+      "Codigo": "FG715",
+      "Curso": "Análisis de varianza para tesis Maestral",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG035",
+      "Curso": "Derecho Civil II",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG056",
+      "Curso": "Derecho Financiero y Bancario",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG054",
+      "Curso": "Derecho Internacional Publico",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG043",
+      "Curso": "Derecho Laboral I",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG051",
+      "Curso": "Derecho Mercantil II",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG052",
+      "Curso": "Derecho Notarial I",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG138",
+      "Curso": "Derecho Notarial III",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG036",
+      "Curso": "Derecho Penal II",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG053",
+      "Curso": "Derecho Procesal Civil I",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG151",
+      "Curso": "Derecho Procesal Laboral",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG046",
+      "Curso": "Derecho Procesal Penal I",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MSH016",
+      "Curso": "Derechos Humanos y Derechos de los Pueblos Indígenas",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "FG719",
+      "Curso": "Evaluación Ex-post de la Propuesta de la Investigación Maestral",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MSH035",
+      "Curso": "Filosofía del Derecho",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG251",
+      "Curso": "Historia Jurídica de Guatemala",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "FG714",
+      "Curso": "Monografías de la Especialidad Maestral",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "FG713",
+      "Curso": "Proyecciones y Correlación del Efecto de la Investigación Maestral",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "MFG038",
+      "Curso": "Teoría del Proceso",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "FG720",
+      "Curso": "Tesis de la Especialidad Maestral y Propuesta de Solución a la Problemática",
+      "Semestre": "Maestria"
+     },
+     {
+      "Codigo": "FG726",
+      "Curso": "Análisis de varianza para tesis Doctoral",
+      "Semestre": "Doctorado"
+     },
+     {
+      "Codigo": "FG730",
+      "Curso": "Evaluación Ex-post de la Propuesta de la Investigación Doctoral",
+      "Semestre": "Doctorado"
+     },
+     {
+      "Codigo": "FG725",
+      "Curso": "Monografías de la Especialidad Doctoral",
+      "Semestre": "Doctorado"
+     },
+     {
+      "Codigo": "FG724",
+      "Curso": "Proyecciones y Correlación del Efecto de la Investigación Doctoral",
+      "Semestre": "Doctorado"
+     },
+     {
+      "Codigo": "FG731",
+      "Curso": "Tesis de la Especialidad Doctoral y Propuesta de Solución a la Problemática",
+      "Semestre": "Doctorado"
+     },
+     {
+      "Codigo": "FG073",
+      "Curso": "Administración de Operaciones II",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE003",
+      "Curso": "Biodiversidad",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG155",
+      "Curso": "Construcciones Rurales II",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG011",
+      "Curso": "Dasonomía",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE176",
+      "Curso": "Desarrollo de la Comunidad",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG352",
+      "Curso": "Diseño y Construcción de Maquinaria Agroindustrial",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG105",
+      "Curso": "Economía Industrial",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG007",
+      "Curso": "Entomología",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "CB010M",
+      "Curso": "Estadística",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "SH028M",
+      "Curso": "Ética Profesional",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "SH060",
+      "Curso": "Filosofía Educativa",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "SH003M",
+      "Curso": "Fundamentos de Sociología",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE278",
+      "Curso": "Ingeniería Aplicada",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG114M",
+      "Curso": "Introducción a la Ciencia Política",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "SH052",
+      "Curso": "Introducción a las Ciencias de la Educación",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG028M",
+      "Curso": "Introducción al Derecho I",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG029",
+      "Curso": "Introducción al Derecho II",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE177",
+      "Curso": "Investigación Pedagógica",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "CB050",
+      "Curso": "Investigación V",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE019",
+      "Curso": "Legislación Ambiental Internacional II",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "MSH028M",
+      "Curso": "Lengua y literatura",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "MFG347M",
+      "Curso": "Metodologia Científica",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG080",
+      "Curso": "Métodos Cuantitativos",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG422",
+      "Curso": "Métodos de Construcción III",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE042",
+      "Curso": "Métodos Estadísticos para Investigadores I",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG002",
+      "Curso": "Modulo de Integración al Conocimiento II",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG001",
+      "Curso": "Módulo de Integración del Conocimiento I",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "SH010",
+      "Curso": "Oratoria",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG346",
+      "Curso": "Pasantía Profesional",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG131",
+      "Curso": "Planificación Básica",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG161",
+      "Curso": "Práctica Supervisada de Administración",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE051",
+      "Curso": "Práctica Supervisada de Auditoría",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE047",
+      "Curso": "Práctica Supervisada de Contabilidad",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "SH014M",
+      "Curso": "Problemas Socioeconómicos de Guatemala",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "SH058",
+      "Curso": "Problemática Educativa Nacional",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG527",
+      "Curso": "Propedéutico de examen privado de fase privada (Derecho)",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG526",
+      "Curso": "Propedéutico de examen privado de fase pública (Derecho)",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG528 I",
+      "Curso": "Propedéutico de Privado II (Industrial)",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG524",
+      "Curso": "Propedéutico de Tesis",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG022",
+      "Curso": "Proyectos I",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG085",
+      "Curso": "Proyectos II",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG158",
+      "Curso": "Proyectos III",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE232",
+      "Curso": "Relaciones Humanas",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG163",
+      "Curso": "Seminario de casos jurídicos especiales",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE056",
+      "Curso": "Seminario de Procedimientos Legales y Administrativos",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE223",
+      "Curso": "Seminario sobre la Filosofía del Lenguaje y la Literatura",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG367",
+      "Curso": "Seminario sobre temas industriales",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG015",
+      "Curso": "Seminario Sobre Temas Socio ambientales",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FE300",
+      "Curso": "Sistema Estadounidense de Construccion",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "SH005M",
+      "Curso": "Sociología Rural",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "CB002M",
+      "Curso": "Técnicas de Investigación",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG364",
+      "Curso": "Tecnología de la información",
+      "Semestre": "Extracurricular"
+     },
+     {
+      "Codigo": "FG350",
+      "Curso": "Zootecnia III (ACUACULTURA)",
+      "Semestre": "Extracurricular"
+     }
+    ]
+    }

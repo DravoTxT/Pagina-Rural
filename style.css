@@ -1,0 +1,452 @@
+/* Estilos generales */
+body { 
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Contenedor del encabezado */
+header {
+    display: flex;
+    flex-direction: column; /* Acomoda los elementos en columna */
+    align-items: flex-start; /* Alinea el contenido a la izquierda */
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+/* Estilos del logo */
+.logo {
+    width: 120px; /* Mantiene el tamaño actual */
+    height: auto;
+    margin-bottom: 10px; /* Espacio debajo del logo */
+}
+
+/* Ajuste del menú */
+.nav {
+    position: relative; /* Evita que flote sobre otros elementos */
+    width: auto; /* Se ajusta al contenido */
+    background: rgba(51, 51, 51, 0.7);
+    padding: 15px;
+    display: flex;
+    justify-content: flex-start; /* Alineado a la izquierda */
+    align-items: center;
+    gap: 10px;
+    z-index: 999;
+    backdrop-filter: blur(10px);
+    border-radius: 5px;
+}
+
+
+/* Estilos de los botones del menú */
+.dropbtn {
+    background-color: #444;
+    color: white;
+    padding: 14px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.dropbtn:hover {
+    background-color: #0056b3;
+}
+
+/* Contenedor del menú desplegable */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Submenú */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: navy;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    min-width: 200px;
+    text-align: left;
+    z-index: 1000;
+}
+
+/* Asegurar que el submenú se alinee con el botón padre */
+.dropdown-content a {
+    color: white;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+/* Mantener el submenú visible mientras el mouse está sobre él */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #0056b3;
+}
+
+/* Contenedor de contenido */
+#contenido {
+    margin-top: 50px;
+    width: 80%;
+    background: rgba(255, 255, 255, 0.6); /* Semitransparente */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+/* Tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+/* Ajuste de filas */
+table, th, td {
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 8px;
+}
+
+/* Encabezado de tabla */
+th {
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo más oscuro */
+    color: white;
+    text-align: left;
+}
+
+/* Alternar colores de filas */
+tr:nth-child(even) {
+    background: rgba(0, 0, 0, 0.2); /* Fila semitransparente */
+    color: white;
+}
+
+tr:nth-child(odd) {
+    background: rgba(255, 255, 255, 0.4); /* Fila semitransparente clara */
+    color: black;
+}
+
+/* Resaltar fila al pasar el cursor */
+tr:hover {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+/* Fondo de la página */
+body {
+    background-image: url('../img/fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+/* Ajuste del logo */
+#logo-universidad {
+    position: relative;
+    display: block;
+    width: 180px;
+    height: auto;
+    margin: 20px auto 10px 20px;
+}
+
+/* -------------------- NUEVAS MODIFICACIONES -------------------- */
+
+/* Contenedor del encabezado con franja blanca difuminada */
+header {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Franja blanca con difuminado */
+.header-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.7); /* Blanco semi-transparente */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8); /* Difuminado */
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+/* Estilos del logo */
+#logo-universidad {
+    width: 120px; 
+    height: auto;
+    position: absolute;
+    left: 20px; /* Mantiene el logo alineado a la izquierda */
+}
+
+/* Texto de la Universidad */
+.titulo-universidad {
+    font-family: 'Arial', sans-serif; /* Usar misma tipografía del logo */
+    color: navy; /* Color del logo */
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+/* -------------------- AJUSTES ADICIONALES -------------------- */
+
+/* Aumentar el tamaño del texto */
+.titulo-universidad {
+    font-size: 70px; /* Tamaño más grande */
+    font-weight: bold;
+    color: rgb(16, 16, 87);
+    text-align: center;
+}
+
+/* Franja blanca con más transparencia y difuminado */
+.header-overlay {
+    background: rgba(255, 255, 255, 0.5); /* Más transparencia */
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.5); /* Difuminado más suave */
+    backdrop-filter: blur(15px); /* Más desenfoque */
+}
+
+.header {
+    background-color: rgba(255, 255, 255, 0.2); /* Hace la franja más transparente */
+    backdrop-filter: blur(8px); /* Agrega un efecto de difuminado */
+}
+
+.header-title {
+    font-size: 70px; /* Tamaño del texto */
+    color: #012059; /* Color extraído de la imagen */
+    font-weight: bold; /* Negrita para mayor énfasis */
+}
+
+.clase-1 {
+    background-image: url('fondos/fondo1.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-2 {
+    background-image: url('fondos/fondo2.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-3 {
+    background-image: url('fondos/fondo3.PNG');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-4 {
+    background-image: url('fondos/fondo4.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-5 {
+    background-image: url('fondos/fondo5.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-7 {
+    background-image: url('fondos/fondo6.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-8 {
+    background-image: url('fondos/fondo7.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-9 {
+    background-image: url('fondos/fondo8.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-10 {
+    background-image: url('fondos/fondo9.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-11 {
+    background-image: url('fondos/fondo10.PNG');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-13 {
+    background-image: url('fondos/fondo11.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-14 {
+    background-image: url('fondos/fondo12.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-15 {
+    background-image: url('fondos/fondo13.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.clase-16 {
+    background-image: url('fondos/fondo14.png');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Estilos para mejorar la legibilidad de la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(0, 0, 0, 0.8); /* Fondo oscuro semitransparente */
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Estilo para las celdas */
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+/* Fondo oscuro para los encabezados */
+th {
+    background: rgba(0, 0, 0, 0.9);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Filas alternas con transparencia para mejorar visibilidad */
+tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+tr:nth-child(odd) {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+/* Hover en filas para mejorar interacción */
+tr:hover {
+    background: rgba(0, 255, 100, 0.3);
+    transition: 0.3s;
+}
+
+/* Botón "Copiar" más visible */
+button {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+button:hover {
+    background: #218838;
+}
+
+/* Paginación */
+.paginacion {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagina {
+    padding: 10px 15px;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.pagina.activo {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Estilos para los botones de paginación */
+.paginacion .pagina {
+    padding: 10px 15px;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    background-color: #4CAF50; /* Color verde */
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Estilo para el botón de la página activa */
+.paginacion .pagina.activo {
+    background-color: #2196F3; /* Color azul similar al botón de copiar ruta */
+    color: white;
+}
+
+/* Estilos existentes */
+
+.companion-container {
+    display: flex;
+    flex-direction: row; /* Asegura que los elementos estén en fila */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: flex-end; /* Asegura que se alineen en la parte baja */
+    flex-wrap: wrap; /* Evita que se desborden en pantallas pequeñas */
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%; /* Ajusta el ancho para evitar desbordes */
+    gap: 20px; /* Espaciado entre cada compañero */
+}
+
+.companion-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.2); /* Un fondo semitransparente */
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.companion-info img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.companion-text {
+    max-width: 150px;
+}
+
+/* Estilos existentes */
